@@ -4,7 +4,7 @@
 npm install @brainhubeu/hadron-validation --save
 ```
 
-[More info about installation](/core/#installation)
+[More info about installation](/docs/basics/core/#installation)
 
 ## Creating schema files
 

@@ -4,7 +4,7 @@
 npm install @brainhubeu/hadron-json-provider --save
 ```
 
-[More info about installation](/core/#installation)
+[More info about installation](/docs/basics/core/#installation)
 
 ## Overview
 

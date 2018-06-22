@@ -4,7 +4,7 @@
 npm install @brainhubeu/hadron-serialization --save
 ```
 
-[More info about installation](http://hadron-docs.dev.brainhub.pl/core/#installation)
+[More info about installation](/docs/basics/core/#installation)
 
 ## Overview
 

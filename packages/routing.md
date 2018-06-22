@@ -6,7 +6,7 @@ INFO: Routing with hadron currently works only with the Express framework.
 npm install @brainhubeu/hadron-express --save
 ```
 
-[More info about installation](/core/#installation)
+[More info about installation](/docs/basics/core/#installation)
 
 ## Express integration
 

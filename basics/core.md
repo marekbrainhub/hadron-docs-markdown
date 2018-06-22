@@ -114,4 +114,4 @@ hadron(...args).then((container) => {
 
 To access container items from callbacks, you can just set arguments' names to match container keys, and required dependency will be provided.
 
-See an example [here](../routing/#retrieving-items-from-container-in-callback)
+See an example [here](/docs/packages/routing/#retrieving-items-from-container-in-callback)

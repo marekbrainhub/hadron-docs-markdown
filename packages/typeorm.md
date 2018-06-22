@@ -4,7 +4,7 @@
 npm install @brainhubeu/hadron-typeorm --save
 ```
 
-[More info about installation](/core/#installation)
+[More info about installation](/docs/basics/core/#installation)
 
 ## Initializing
 
