@@ -191,7 +191,7 @@ Now that we have the access token we can implement other features, such as our o
 * `redirectUri: string` - the redirect URI for your app, must be the same as in the App Dashboard.
 * `authUrl: ?string` - see above, defaults to `https://www.facebook.com/v3.0/dialog/oauth`.
 * `tokenUrl: ?string` - see above, defaults to `https://graph.facebook.com/v3.0/oauth/access_token`
-* `responseType` - see above, defaults to `code`.
+* `responseType: ?string` - unlike Google, Facebook supports different methods of OAuth authentication flow. This option can be set to `code` (default) to receive just the auth code, `token` to have the client receive the token immediately (useful if you're building a desktop application with Hadron), `code token` to receive both and `granted_scopes` to receive a comma-separated list of permissions the user granted to the app. See [here](https://developers.facebook.com/docs/facebook-login/manually-build-a-login-flow/#login) for details.
 
 ### Methods
 
